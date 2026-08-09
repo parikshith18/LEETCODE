@@ -7,7 +7,7 @@ public:
         for(int right = 0; right < n; right++){
             freq[s[right] - 'A']++;
             maxfreq = max(maxfreq, freq[s[right] - 'A']);
-            while((right- left + 1) - maxfreq > k){
+            while((right - left + 1) - maxfreq > k){
                 freq[s[left] - 'A']--;
                 left++;
             }
