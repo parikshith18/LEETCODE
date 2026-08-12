@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parikshith18/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/parikshith18/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/parikshith18/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/parikshith18/LEETCODE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parikshith18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/parikshith18/LEETCODE/tree/master/0136-single-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/parikshith18/LEETCODE/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parikshith18/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
