@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/parikshith18/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/parikshith18/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/parikshith18/LEETCODE/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/parikshith18/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/parikshith18/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parikshith18/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/parikshith18/LEETCODE/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/parikshith18/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parikshith18/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Stack
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parikshith18/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/parikshith18/LEETCODE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
