@@ -12,3 +12,15 @@ public:
         return i;
     }
 };
+
+// Sort both
+//    ↓
+// cookie >= child?
+//    ↓
+// YES → satisfy child → i++
+// NO  → discard cookie
+//    ↓
+// j++ always
+
+// Time: O(n log n + m log m) because of sorting.
+// Space: O(1) extra space apart from the sorting implementation.
