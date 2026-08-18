@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/parikshith18/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/parikshith18/LEETCODE/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/parikshith18/LEETCODE/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/parikshith18/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/parikshith18/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/parikshith18/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/parikshith18/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parikshith18/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/parikshith18/LEETCODE/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parikshith18/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/parikshith18/LEETCODE/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/parikshith18/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/parikshith18/LEETCODE/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/parikshith18/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/parikshith18/LEETCODE/tree/master/0135-candy) |
+| [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
