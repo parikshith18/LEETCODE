@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/parikshith18/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/parikshith18/LEETCODE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/parikshith18/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/parikshith18/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parikshith18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/parikshith18/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/parikshith18/LEETCODE/tree/master/0136-single-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parikshith18/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/parikshith18/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/parikshith18/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parikshith18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
