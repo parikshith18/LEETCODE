@@ -23,3 +23,17 @@ public:
         return ans;
     }
 };
+
+// p frequency
+//     ↓
+// fixed window = p.size()
+//     ↓
+// add right
+//     ↓
+// window too big?
+//     ↓
+// remove left
+//     ↓
+// frequency same?
+//     ↓
+// YES → store left
