@@ -22,3 +22,17 @@ public:
         return false;
     }
 };
+
+// s1 frequency
+//       ↓
+// fixed window = s1.length()
+//       ↓
+// add right character
+//       ↓
+// window too big?
+//       ↓
+// remove left character
+//       ↓
+// compare frequencies
+//       ↓
+// same → TRUE
