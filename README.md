@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/parikshith18/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/parikshith18/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/parikshith18/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parikshith18/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/parikshith18/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/parikshith18/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/parikshith18/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
