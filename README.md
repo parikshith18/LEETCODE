@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/parikshith18/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/parikshith18/LEETCODE/tree/master/2235-add-two-integers) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/parikshith18/LEETCODE/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parikshith18/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/parikshith18/LEETCODE/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/parikshith18/LEETCODE/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
