@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/parikshith18/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/parikshith18/LEETCODE/tree/master/2235-add-two-integers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parikshith18/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
 | ------- |
