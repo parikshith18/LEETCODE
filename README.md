@@ -182,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/parikshith18/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/parikshith18/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parikshith18/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/parikshith18/LEETCODE/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parikshith18/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/parikshith18/LEETCODE/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
+| [1927-sum-game](https://github.com/parikshith18/LEETCODE/tree/master/1927-sum-game) |
 ## Math
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parikshith18/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/parikshith18/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1927-sum-game](https://github.com/parikshith18/LEETCODE/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/parikshith18/LEETCODE/tree/master/2235-add-two-integers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/parikshith18/LEETCODE/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parikshith18/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/parikshith18/LEETCODE/tree/master/2443-sum-of-number-and-its-reverse) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/parikshith18/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
