@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/parikshith18/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/parikshith18/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/parikshith18/LEETCODE/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/parikshith18/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/parikshith18/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parikshith18/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/parikshith18/LEETCODE/tree/master/0283-move-zeroes) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parikshith18/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/parikshith18/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/parikshith18/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/parikshith18/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/parikshith18/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parikshith18/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -169,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/parikshith18/LEETCODE/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/parikshith18/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parikshith18/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parikshith18/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/parikshith18/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
