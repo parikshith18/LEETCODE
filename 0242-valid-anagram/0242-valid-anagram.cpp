@@ -1,25 +1,35 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int n = s.size(), m = t.size();
-        if(n != m) // Egde Case
-            return false; 
+        if(s.size() != t.size())
+            return false;
+            
+        int freq[26] = {0};
+        for(char x: s)
+            freq[x - 'a']++;
 
-        vector<int> freq(26);
-        for(char c: s)
-            freq[c - 'a']++;
-        for(char c: t)
-            freq[c - 'a']--;
+        for(char x: t){
+            freq[x - 'a']--;
 
-        for(int x: freq)
-            if(x != 0)
-                return false;
+        if(freq[x - 'a'] < 0)
+            return false;
+        }
         return true;
     }
 };
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
-// s → ++
-// t → --
-
-// everything 0 → anagram ✅
-// anything != 0 → false ❌
+// BRUTE FORCE
+// class Solution {
+// public:
+//     bool isAnagram(string s, string t) {
+//         if(s.size() != t.size())
+//             return false;
+//         sort(s.begin(), s.end());
+//         sort(t.begin(), t.end());
+//         return s == t;
+//     }
+// };
+// Time Complexity: O(n log n)
+// Space Complexity: O(1)
