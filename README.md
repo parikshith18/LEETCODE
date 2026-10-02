@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/parikshith18/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parikshith18/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/parikshith18/LEETCODE/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/parikshith18/LEETCODE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/parikshith18/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parikshith18/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parikshith18/LEETCODE/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/parikshith18/LEETCODE/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parikshith18/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/parikshith18/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/parikshith18/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parikshith18/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/parikshith18/LEETCODE/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/parikshith18/LEETCODE/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/parikshith18/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/parikshith18/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
