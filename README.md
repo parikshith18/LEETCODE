@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/parikshith18/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/parikshith18/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/parikshith18/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/parikshith18/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/parikshith18/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parikshith18/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/parikshith18/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/parikshith18/LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/parikshith18/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/parikshith18/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parikshith18/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/parikshith18/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/parikshith18/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/parikshith18/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/parikshith18/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/parikshith18/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/parikshith18/LEETCODE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/parikshith18/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parikshith18/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/parikshith18/LEETCODE/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/parikshith18/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/parikshith18/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
