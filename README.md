@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/parikshith18/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/parikshith18/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/parikshith18/LEETCODE/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/parikshith18/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/parikshith18/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/parikshith18/LEETCODE/tree/master/0078-subsets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parikshith18/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/parikshith18/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/parikshith18/LEETCODE/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/parikshith18/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/parikshith18/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/parikshith18/LEETCODE/tree/master/0169-majority-element) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parikshith18/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parikshith18/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/parikshith18/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/parikshith18/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/parikshith18/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/parikshith18/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parikshith18/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/parikshith18/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/parikshith18/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/parikshith18/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/parikshith18/LEETCODE/tree/master/0205-isomorphic-strings) |
