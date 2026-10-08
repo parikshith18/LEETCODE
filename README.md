@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/parikshith18/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/parikshith18/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1590-make-sum-divisible-by-p](https://github.com/parikshith18/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/parikshith18/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/parikshith18/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parikshith18/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parikshith18/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1590-make-sum-divisible-by-p](https://github.com/parikshith18/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parikshith18/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parikshith18/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Quicksort
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parikshith18/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/parikshith18/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/parikshith18/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 ## String
 |  |
 | ------- |
