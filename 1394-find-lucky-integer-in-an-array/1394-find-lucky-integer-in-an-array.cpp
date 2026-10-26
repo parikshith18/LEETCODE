@@ -4,12 +4,15 @@ public:
         unordered_map <int, int> freq;
         for(int x: arr)
             freq[x]++;
-        int ans = -1;
 
+        int maxi = -1;
         for(auto it: freq){
             if(it.first == it.second)
-                ans = max(ans, it.first);
+                maxi = max(maxi, it.first);
         }
-        return ans;
+        return maxi;
     }
 };
+
+// Time: (O(n)) average — one pass to count, one pass over distinct numbers.
+// Space: (O(n)) — the HashMap stores distinct numbers and their frequencies.
