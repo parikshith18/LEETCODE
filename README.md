@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/parikshith18/LEETCODE/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/parikshith18/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parikshith18/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parikshith18/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/parikshith18/LEETCODE/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/parikshith18/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/parikshith18/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parikshith18/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/parikshith18/LEETCODE/tree/master/1436-destination-city) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/parikshith18/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/parikshith18/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parikshith18/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parikshith18/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parikshith18/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/parikshith18/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parikshith18/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parikshith18/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/parikshith18/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/parikshith18/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/parikshith18/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/parikshith18/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/parikshith18/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parikshith18/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parikshith18/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/parikshith18/LEETCODE/tree/master/1512-number-of-good-pairs) |
