@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/parikshith18/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/parikshith18/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/parikshith18/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/parikshith18/LEETCODE/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/parikshith18/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/parikshith18/LEETCODE/tree/master/0075-sort-colors) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/parikshith18/LEETCODE/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/parikshith18/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/parikshith18/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/parikshith18/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/parikshith18/LEETCODE/tree/master/0202-happy-number) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/parikshith18/LEETCODE/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/parikshith18/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
