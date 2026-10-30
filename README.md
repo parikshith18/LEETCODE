@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/parikshith18/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/parikshith18/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parikshith18/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parikshith18/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parikshith18/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/parikshith18/LEETCODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parikshith18/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/parikshith18/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/parikshith18/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/parikshith18/LEETCODE/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parikshith18/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parikshith18/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Quicksort
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parikshith18/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/parikshith18/LEETCODE/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/parikshith18/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## String
 |  |
 | ------- |
