@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/parikshith18/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/parikshith18/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parikshith18/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parikshith18/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
