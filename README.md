@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2845-count-of-interesting-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2845-count-of-interesting-subarrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parikshith18/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parikshith18/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parikshith18/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/parikshith18/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/parikshith18/LEETCODE/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2845-count-of-interesting-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2845-count-of-interesting-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parikshith18/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parikshith18/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Quicksort
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/parikshith18/LEETCODE/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/parikshith18/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2845-count-of-interesting-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/2845-count-of-interesting-subarrays) |
 ## String
 |  |
 | ------- |
