@@ -424,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/parikshith18/LEETCODE/tree/master/0202-happy-number) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/parikshith18/LEETCODE/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
