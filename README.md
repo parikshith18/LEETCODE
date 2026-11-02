@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/parikshith18/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/parikshith18/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/parikshith18/LEETCODE/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/parikshith18/LEETCODE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/parikshith18/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/parikshith18/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parikshith18/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/parikshith18/LEETCODE/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/parikshith18/LEETCODE/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/parikshith18/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Recursion
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/parikshith18/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/parikshith18/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshith18/LEETCODE/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parikshith18/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Pigeonhole Principle
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/parikshith18/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshith18/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/parikshith18/LEETCODE/tree/master/0841-keys-and-rooms) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/parikshith18/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshith18/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/parikshith18/LEETCODE/tree/master/0841-keys-and-rooms) |
