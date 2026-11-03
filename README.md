@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/parikshith18/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parikshith18/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/parikshith18/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/parikshith18/LEETCODE/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/parikshith18/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/parikshith18/LEETCODE/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/parikshith18/LEETCODE/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/parikshith18/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/parikshith18/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/parikshith18/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/parikshith18/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/parikshith18/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parikshith18/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
