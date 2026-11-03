@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/parikshith18/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/parikshith18/LEETCODE/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/parikshith18/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/parikshith18/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parikshith18/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parikshith18/LEETCODE/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/parikshith18/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/parikshith18/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/parikshith18/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/parikshith18/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/parikshith18/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/parikshith18/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parikshith18/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
