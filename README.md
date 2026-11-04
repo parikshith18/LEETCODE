@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/parikshith18/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/parikshith18/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-replace-the-substring-for-balanced-string](https://github.com/parikshith18/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parikshith18/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/parikshith18/LEETCODE/tree/master/1436-destination-city) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/parikshith18/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1927-sum-game](https://github.com/parikshith18/LEETCODE/tree/master/1927-sum-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/parikshith18/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
