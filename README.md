@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/parikshith18/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshith18/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parikshith18/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/parikshith18/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parikshith18/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1436-destination-city](https://github.com/parikshith18/LEETCODE/tree/master/1436-destination-city) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/parikshith18/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/parikshith18/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## Bit Manipulation
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/parikshith18/LEETCODE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parikshith18/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/parikshith18/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/parikshith18/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parikshith18/LEETCODE/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parikshith18/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/parikshith18/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/parikshith18/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
