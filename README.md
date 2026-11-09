@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/parikshith18/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parikshith18/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/parikshith18/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0690-employee-importance](https://github.com/parikshith18/LEETCODE/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/parikshith18/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/parikshith18/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/parikshith18/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parikshith18/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/parikshith18/LEETCODE/tree/master/0567-permutation-in-string) |
+| [0690-employee-importance](https://github.com/parikshith18/LEETCODE/tree/master/0690-employee-importance) |
 | [0771-jewels-and-stones](https://github.com/parikshith18/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/parikshith18/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/parikshith18/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/parikshith18/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshith18/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/parikshith18/LEETCODE/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/parikshith18/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parikshith18/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/parikshith18/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshith18/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/parikshith18/LEETCODE/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/parikshith18/LEETCODE/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/parikshith18/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/parikshith18/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -499,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/parikshith18/LEETCODE/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/parikshith18/LEETCODE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/parikshith18/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/parikshith18/LEETCODE/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
